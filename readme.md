@@ -1,7 +1,8 @@
 Boss Servers
 How to set it up:
 Download the file below
-Drag and drop it into ```C:\Users\%username%\AppData\LocalLow\Innersloth\Among Us```
+Drag and drop it into
+```C:\Users\%username%\AppData\LocalLow\Innersloth\Among Us```
 restart among us then you should see Imposter Instead of North america or asia or eroupe
 To switch back click on the little globe and select your place (NA or EU or A)
 
